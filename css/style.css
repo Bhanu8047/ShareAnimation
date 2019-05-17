@@ -23,20 +23,17 @@ header{
     align-content: center;
     align-items: center;
     width: 100%;
-<<<<<<< HEAD
     height: auto;
 }
 h1{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-=======
     height: 10vh;
     text-align: center;
 }
 h1{
     padding: 24px 24px;
->>>>>>> e00b7d5c0527f2533c51041922b6a61d4099755d
     animation: lightening 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) infinite alternate ;
 }
 @keyframes lightening {
